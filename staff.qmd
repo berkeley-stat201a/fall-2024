@@ -10,21 +10,21 @@ Office hours are subject to change.
 ::: {.grid}
 
 ::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu/people/yun-s-song" target='_blank'>Prof. Yun S. Song</a>
+**Instructor:** <a href="https://statistics.berkeley.edu/people/yun-s-song" target='_blank'>Prof. Yun S. Song</a><br>
 Office hours: <br>
 - TBD <br>
 - TBD <br>
 :::
 
 ::: {.g-col-4}
-**GSI**: <a href="https://statistics.berkeley.edu/people/gabriel-ramirez-raposo" target="_blank">Gabriel Ramirez Raposo</a>
+**GSI**: <a href="https://statistics.berkeley.edu/people/gabriel-ramirez-raposo" target="_blank">Gabriel Ramirez Raposo</a><br>
 Office hours:<br>
 - TBD<br>
 - TBD<br>
 :::
 
 ::: {.g-col-4}
-**GSI**: Fanding Zhou
+**GSI**: Fanding Zhou<br>
 Office hours:<br>
 - TBD<br>
 - TBD<br>
