@@ -21,7 +21,7 @@ This course will cover the fundamentals of probability theory at an advance leve
 There is no required textbook for the class.  You may use the following books as general references:
 
 - *An intermediate course in probability, 2nd edition* by Allan Gut
-- *Stochastic Processes* by Robert G. Gallager
+- *Stochastic Processes: Theory for Applications* by Robert G. Gallager
 
 ### Prerequisites
 
