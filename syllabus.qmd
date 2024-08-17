@@ -4,13 +4,13 @@ title: "Syllabus"
 
 Jump to:
 
-- [About Stat 201a](#about)
+- [About Stat 201A](#about)
   - [Course Description](#course)
   - [Textbook](#textbook)
   - [Prerequisites](#prerequisites)
 
 
-## About Stat 201a
+## About Stat 201A
 
 ### Course Description
 
@@ -18,12 +18,13 @@ This course will cover the fundamentals of probability theory at an advance leve
 
 ### Textbook
 
-There is no required textbook for the class.  You can use the following books as general references:
+There is no required textbook for the class.  You may use the following books as general references:
 
 - *An intermediate course in probability, 2nd edition* by Allan Gut
+- *Stochastic Processes* by Robert G. Gallager
 
 ### Prerequisites
 
-- Undergraduate probability at the level of Statistics 134
+- Undergraduate probability (at the level of Berkeley’s Statistics 134)
 - Multivariable calculus (at the level of Berkeley’s Mathematics 53) 
 - Linear algebra (at the level of Berkeley’s Mathematics 54)
