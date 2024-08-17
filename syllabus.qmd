@@ -5,21 +5,25 @@ title: "Syllabus"
 Jump to:
 
 - [About Stat 201a](#about)
-  - [Goals](#goals)
+  - [Course Description](#course)
+  - [Textbook](#textbook)
   - [Prerequisites](#prerequisites)
 
 
 ## About Stat 201a
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+### Course Description
 
-### Goals
+This course will cover the fundamentals of probability theory at an advance level.  Upon reviewing basic undergraduate probability, we will study various concentration inequalities, convergence of random variables, generating functions, limit theorems, multivariate random variables, and stochastic processes.
 
+### Textbook
 
-- Goal 1
-- Goal 2
-- Goal 3
+There is no required textbook for the class.  You can use the following books as general references:
+
+- *An intermediate course in probability, 2nd edition* by Allan Gut
 
 ### Prerequisites
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+- Undergraduate probability at the level of Statistics 134
+- Multivariable calculus (at the level of Berkeley’s Mathematics 53) 
+- Linear algebra (at the level of Berkeley’s Mathematics 54)
