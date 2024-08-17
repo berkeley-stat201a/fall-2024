@@ -10,4 +10,4 @@ listing:
 ::: {#buttons}
 :::
 
-Insert text about the class here.
+This course will cover the fundamentals of probability theory at an advance level.  Upon reviewing basic undergraduate probability, we will study various concentration inequalities, convergence of random variables, generating functions, limit theorems, multivariate random variables, and stochastic processes.
