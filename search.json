@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Statistics 201a: Introduction to Probability at an Advanced Level",
     "section": "",
-    "text": "Ed\n\n  bCourses\n\n  Gradescope\n\n\nNo matching items\n\n\nThis course will cover the fundamentals of probability theory at an advance level. Upon reviewing basic undergraduate probability, we will study various concentration inequalities, convergence of random variables, generating functions, limit theorems, multivariate random variables, and stochastic processes.",
+    "text": "Ed\n\n  bCourses\n\n  Gradescope\n\n\nNo matching items\n\n\nThis course will cover the fundamentals of probability theory at an advance level. Upon reviewing basic undergraduate probability, we will study various topics, including concentration inequalities, convergence of random variables, generating functions, limit theorems, multivariate random variables, and stochastic processes.",
     "crumbs": [
       "Home"
     ]
@@ -34,7 +34,7 @@
     "href": "syllabus.html#about-stat-201a",
     "title": "Syllabus",
     "section": "About Stat 201A",
-    "text": "About Stat 201A\n\nCourse Description\nThis course will cover the fundamentals of probability theory at an advanced level. Upon reviewing basic undergraduate probability, we will study various concentration inequalities, convergence of random variables, generating functions, limit theorems, multivariate random variables, and stochastic processes.\n\n\nTextbook\nThere is no required textbook for the class. You may use the following books as general references:\n\nAn intermediate course in probability, 2nd edition by Allan Gut\nStochastic Processes: Theory for Applications by Robert G. Gallager\n\n\n\nPrerequisites\n\nUndergraduate probability (at the level of Berkeley’s Statistics 134)\nMultivariable calculus (at the level of Berkeley’s Mathematics 53)\nLinear algebra (at the level of Berkeley’s Mathematics 54)",
+    "text": "About Stat 201A\n\nCourse Description\nThis course will cover the fundamentals of probability theory at an advance level. Upon reviewing basic undergraduate probability, we will study various topics, including concentration inequalities, convergence of random variables, generating functions, limit theorems, multivariate random variables, and stochastic processes.\n\n\nTextbook\nThere is no required textbook for the class. You may use the following books as general references:\n\nAn Intermediate Course in Probability, 2nd edition by Allan Gut\nStochastic Processes: Theory for Applications by Robert G. Gallager\n\n\n\nPrerequisites\n\nUndergraduate probability (at the level of Berkeley’s Statistics 134)\nMultivariable calculus (at the level of Berkeley’s Mathematics 53)\nLinear algebra (at the level of Berkeley’s Mathematics 54)",
     "crumbs": [
       "Syllabus"
     ]
