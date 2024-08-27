@@ -8,7 +8,12 @@ Jump to:
   - [Course Description](#course)
   - [Textbook](#textbook)
   - [Prerequisites](#prerequisites)
-
+- [Course Policies](#course)
+  - [Technology](#technology)
+  - [Grading](#grading)
+  - [Exams](#exams)
+  - [Cheating](#cheating)
+  - [Collaboration](#collaboration)
 
 ## About Stat 201A
 
