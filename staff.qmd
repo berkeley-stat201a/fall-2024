@@ -20,16 +20,16 @@ Office hours: <br>
 **GSI**: <a href="https://statistics.berkeley.edu/people/gabriel-ramirez-raposo" target="_blank">Gabriel Ramirez Raposo</a><br>
 `raposo (at) berkeley (dot) edu`<br>
 Office hours:<br>
-- TBD<br>
-- TBD<br>
+- M 4-5pm, 444 Evans<br>
+- Tu 11:30am-12:30pm, 444 Evans<br>
 :::
 
 ::: {.g-col-4}
 **GSI**: Fanding Zhou<br>
 `zhoufd (at) berkeley (dot) edu`<br>
 Office hours:<br>
-- TBD<br>
-- TBD<br>
+- W 5-6pm, 444 Evans<br>
+- Th 2:30-3:30pm, 444 Evans<br>
 :::
 
 :::
