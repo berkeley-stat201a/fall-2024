@@ -2,7 +2,8 @@
 title: "Staff"
 ---
 
-Course e-mail: stat201a-fa24@lists.berkeley.edu 
+Course e-mail: `stat201a-fa24@lists.berkeley.edu` 
+Your e-mail must be sent from a Berkeley e-mail address; otherwise, it will get rejected automatically.
 
 **Please read the Course Policy on e-mail before sending any e-mail.**
 
