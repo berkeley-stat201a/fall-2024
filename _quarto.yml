@@ -5,7 +5,7 @@ website:
   google-analytics: G-C1K257CH8P
   sidebar:
     style: docked
-    title: "Stat 201a"
+    title: "Stat 201A"
     logo: assets/stat_bear.png
     contents:
       - href: index.qmd
@@ -14,6 +14,8 @@ website:
         text: Staff
       - href: syllabus.qmd
         text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
       - href: license.qmd
         text: License
           
