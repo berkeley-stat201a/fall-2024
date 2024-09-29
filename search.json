@@ -50,6 +50,16 @@
     ]
   },
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Lecture\nTopic\n\n\n\n\n1\nIntroduction. Basics of Probability (sample space, events, sigma-algebra of measurable sets, measurable space, measure, probability measure, non-measurable sets)\n\n\n2\nRandom variables (discrete and continuous), indicators, distribution, expectation, absolute convergence, mean, variance, covariance, conditional probability, independence, law of total probability\n\n\n3\nBernoulli process, binomial, geometric, negative binomial, convex functions, strict convexity, Jensen’s inequality, entropy, cross-entropy, KL divergence\n\n\n4\nKL divergence (continued), hypergeometric distribution, exchangeability, tail sum formula\n\n\n5\nMore on exchangeability and hypegeometric distribution, Boole’s inequality (union bound), Cauchy-Schwarz inequality, concentration inequalities (Markov, Chevyshev); weak LLN\n\n\n6\nConvergence of Random Variables, strong LLN, CLT, almost sure convergence, convergence in probability, convergence in r-mean, convergence in distribution, equal in distribution vs equal in probability, examples of convergence\n\n\n7\nConvergence of Random Variables (continued), relations between different convergence concepts, moment generating function, applications to show convergence in distribution\n\n\n8\nSums of random variables, convolution, empirical cumulative distribution function, Glivenko-Cantelli Theorem, Chernoff Inequalities, bounded random variables, Hoeffding’s inequality\n\n\n9\nProof of Hoeffding’s inequality, sub-Gaussian random variables, Hoeffding’s lemma, entropy approximation of Binomial, normal approximation of Binomial, Proof of CLT for sums of Bernoulli random variables",
+    "crumbs": [
+      "Schedule"
+    ]
+  },
+  {
     "objectID": "license.html",
     "href": "license.html",
     "title": "License",

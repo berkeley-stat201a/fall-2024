@@ -15,11 +15,11 @@ th {
 }
 
 td:first-of-type {
-    width: 60%;
+    width: 10%;
 }
 
 td:last-of-type {
-    width: 30%;
+    width: 80%;
 }
 
 table {
