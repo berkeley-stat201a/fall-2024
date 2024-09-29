@@ -10,7 +10,7 @@ tbl-colwidths: [10, 90]
 | 3 | Bernoulli process, binomial, geometric, negative binomial, convex functions, strict convexity, Jensen's inequality, entropy, cross-entropy, KL divergence |
 | 4 | KL divergence (continued), hypergeometric distribution, exchangeability, tail sum formula |
 | 5 | More on exchangeability and hypegeometric distribution, Boole's inequality (union bound), Cauchy-Schwarz inequality, Markov's inequality, Chebyshev's inequality, weak LLN |
-| 6 | Convergence of Random Variables, strong LLN, CLT, almost sure convergence, convergence in probability, convergence in r-mean, convergence in distribution, equal in distribution vs equal in probability, examples of convergence |
+| 6 | Convergence of Random Variables (almost sure convergence, convergence in probability, convergence in r-mean, convergence in distribution), strong LLN, CLT, equal in distribution vs equal in probability, examples of convergence |
 | 7 | Convergence of Random Variables (continued), relations between different convergence concepts, moment generating function, applications to show convergence in distribution |
 | 8 | Sums of random variables, convolution, empirical cumulative distribution function, Glivenko-Cantelli Theorem, Chernoff Inequalities, bounded random variables, Hoeffding's inequality |
 | 9 | Proof of Hoeffding's inequality, sub-Gaussian random variables, Hoeffding's lemma, entropy approximation of Binomial, normal approximation of Binomial, Proof of CLT for sums of Bernoulli random variables |
