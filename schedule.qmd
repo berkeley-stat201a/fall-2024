@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "Lecture Schedule"
 tbl-colwidths: [10, 90]
 ---
 

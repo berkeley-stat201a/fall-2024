@@ -15,7 +15,7 @@ website:
       - href: syllabus.qmd
         text: Syllabus
       - href: schedule.qmd
-        text: Schedule
+        text: Lecture Schedule
       - href: license.qmd
         text: License
           
