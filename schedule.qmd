@@ -18,4 +18,5 @@ tbl-colwidths: [10, 90]
 | 11 | Characteristic function, Levy's continuity theorem, from binomial to Poisson, multinomial distribution, Poissonization of the multinomial, probability generating function (PGF), compounding |
 | 12 | Transformation of a single RV, invertible vs. non-invertible transformations, one-to-one differentiable transformations, many-to-one transformations, Cauchy distribution, log-normal distribution, chi-square/gamma distribution, chi distribution, quantile transform, quantile function | 
 | 13 | Bivariate jointly continuous random variables, bivariate normal, marginal densities, polar coordinates, linear transformations, invertible linear transformations, rotations, orthogonal transformations | 
- 
+| 14 | Joint density, independence, review of invertible affine transformations, general invertible transformations, gamma and beta distributions |
+| 15 | Beta distribution, Dirichlet distribution, order statistics, CDF and PDF of the jth order statistics, uniform order statistics, general order statistics via quantile transformation, joint distribution of order statistics, gaps (spacings), exchangeability |
